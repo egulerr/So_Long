@@ -5,7 +5,7 @@ So_Long is that involves creating a 2D game using the minilibx graphics library.
 To use the So_Long program, you need to follow these steps:
 
 + Download or clone the So_Long repository from GitHub.
-+ Compile the program by running ```make in the root directory of the repository.
++ Compile the program by running ```make``` in the root directory of the repository.
 + Start the game by running ./so_long [map_path].
 + The game will start, and you can use the arrow keys to move the player.
 + Navigate through the map, collect items, and avoid obstacles to reach the end.

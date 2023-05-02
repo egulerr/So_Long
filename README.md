@@ -15,3 +15,6 @@ The So_Long program uses the minilibx graphics library to display the game on th
 ## Conclusion
 The So_Long project is an excellent way to learn about graphics programming and game development in C. By implementing this program, you will gain experience with the minilibx library, file I/O, and game mechanics.
 
+<div align="center">
+  <img width=350 height= 350 src="">
+</div>
